@@ -37,14 +37,14 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](/assets/images/FAQ%20frontend%20mentor.gif)
+![](/assets/images/newsletter%20sign-up%20form.gif)
 
 
 
 ## Links
 
-- Repositório: 
-- Deploy: 
+- Repositório: https://github.com/mazziera/newsletter-sign-up-form-with-success-message
+- Deploy: https://mazziera.github.io/newsletter-sign-up-form-with-success-message/
 
 ## Meu Processo
 
