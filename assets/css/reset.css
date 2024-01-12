@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    font-weight: 400;
+    color: var(--Dark-Slate-Grey);
+}
+
+button{
+    width: 100%;
+    padding: 13px 0;
+    background-color: var(--Charcoal-Grey);
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: .7s ease-in-out;
+}
+
+button:hover{
+    transform: scale(1.1);
+}

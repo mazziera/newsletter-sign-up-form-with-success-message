@@ -1,0 +1,8 @@
+:root{
+    --container-background-color: hsl(0, 0%, 100%);
+    --Dark-Slate-Grey: hsl(235, 18%, 26%);
+    --Charcoal-Grey: hsl(234, 29%, 20%);
+    --email-input-standard: hsl(231, 7%, 60%);
+    --error-color: hsl(4, 100%, 67%);
+
+}

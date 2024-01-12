@@ -1,0 +1,30 @@
+.success-container {
+    max-width: 450px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--container-background-color);
+    border-radius: 20px;
+    display: none;
+}
+
+.success-container > img {
+    width: 50px;
+}
+
+.success-container h2 {
+    color: var(--Charcoal-Grey);
+    font-size: 50px;
+}
+
+.success-container p{
+    margin-top: 10px;
+
+}
+.success-container span {
+    font-weight: 700;
+}
+
+.success-container .dismiss-button{
+    margin-top: 37px;
+}

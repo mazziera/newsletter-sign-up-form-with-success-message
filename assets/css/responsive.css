@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+    .main-container{
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column-reverse;
+        border-radius: 0;
+    }
+    
+    .main-container .form-container {
+        max-width: 90%;
+    }
+
+    .success-container{
+        max-width: 95%;
+    }
+}
